@@ -4,7 +4,7 @@
 Official APK releases for the Downloader Android app.
 
 ## Features
-- Download videos from supported websites
+- Download videos from multiple websites
 - Fast downloads
 - Simple interface
 
