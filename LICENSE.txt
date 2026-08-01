@@ -1,4 +1,4 @@
-Copyright (c) 2026 MD S M Sarowar Hosen.
+Copyright (c) 2026 MD S M Sarowar Hossain.
 All Rights Reserved.
 
 Permission is granted to download and use this application for personal and commercial use.
@@ -9,6 +9,6 @@ You may NOT:
 - Repackage or publish this application under another name.
 - Claim ownership of this application.
 
-Only the copyright holder (MD S M Sarowar Hosen) has the right to sell or commercially distribute this application.
+Only the copyright holder (MD S M Sarowar Hossain) has the right to sell or commercially distribute this application.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
