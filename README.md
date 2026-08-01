@@ -23,3 +23,7 @@ The application is proprietary and all rights are reserved.
 
 -----------------------------------------
 Don't forget to give this repo a star ⭐
+
+-----------------------------------------
+# Contact
+contact.xenonui@gmail.com
