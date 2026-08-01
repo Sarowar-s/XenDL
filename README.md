@@ -20,4 +20,6 @@ If your browser blocks the download, visit the **Releases** page:
 This repository contains binary releases only.
 The application is proprietary and all rights are reserved.
 
+
+-----------------------------------------
 Don't forget to give this repo a star ⭐
